@@ -51,9 +51,6 @@ Designed a normalized relational database using primary keys, foreign keys, and 
 
 Bridge tables were also used to manage game-to-genre and game-to-team relationships.
 
-## 📸 Project Screenshots
-
-Screenshots of the database schema and SQL analysis results are included below.
 
 ## 🚀 Project Outcome
 This project helped me gain practical experience in database design, data loading, normalization, data transformation, and SQL-based analysis. It also helped me understand how sales data can be used to evaluate market trends and performance.
